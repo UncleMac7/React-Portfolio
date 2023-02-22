@@ -111,7 +111,7 @@ const Projects = () =>  {
                               info="A Fullstack E-commerce app built with mySQL, React, JavaScript, Scss, Strapi & Stripe.
                               Backend still has to be deployed since heroku terminated their services but server code availabe on github."
                               githubLink="https://github.com/UncleMac7/OrionStore"
-                              liveSite="https://orion-store-api.vercel.app "/>
+                              liveSite="https://orionstore.vercel.app/"/>
                             <Project title="Project 4"
                               info="A Blog design template for Js, HTML & SASS"
                               githubLink="https://github.com/UncleMac7/Nuntium-desktop-blog-Frontend-"
