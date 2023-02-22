@@ -43,8 +43,9 @@ const Testimonials = () => {
                 >
                     <p className='font-playfair text-center text-3xl'>Lufuno Mulaudzi</p>
                     <p className='font-playfair text-center text-xl'>Software Engineer</p>
-                    <p className='text-center font-playfair mt-5 text-xl'>
-                         "Very creative individual and has lots of creative ways to achieve desired goals"
+                    <p className='text-center font-playfair mb-0 mt-3 text-l'>
+                         "Calvin is a passionate and solutions driven Software Engineer
+                         with a keen eye for details and never-ending bag of ideas"
                     </p>
                 </motion.div>
 
@@ -61,7 +62,7 @@ const Testimonials = () => {
                 >
                     <p className='font-playfair text-center text-3xl'>Kyle Kretschmer</p>
                     <p className='font-playfair text-white text-center text-xl'>Software Developer</p>
-                    <p className='text-center font-playfair text-xl mt-5'>
+                    <p className='text-center font-playfair text-xl mt-3'>
                      "Always willing to learn new concepts and arrises to any challenge"
                     </p>
                 </motion.div>
@@ -78,9 +79,9 @@ const Testimonials = () => {
                              }}
                 >
                     <p className='font-playfair text-center text-3xl'>Lebo Makhetha</p>
-                    <p className='font-playfair text-white text-center text-xl'>AWS Cloud Support Associate</p>
+                    <p className='font-playfair text-white mb-3 text-center text-l'>AWS Cloud Support Associate</p>
                     <p className='text-center font-playfair text-xl mt-1'>
-                        "Very professional and very clear in all communications, which I appreciate."
+                        "Professional and clear in all communications, which I appreciate."
                     </p>
                 </motion.div>
           </div>

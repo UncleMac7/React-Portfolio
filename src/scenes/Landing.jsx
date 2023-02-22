@@ -56,7 +56,7 @@ const Landing = ({setSelectedPage}) => {
                         </span>
                     </p>
 
-                    <p className="mt-10 mb-7 text-4md font-playfair text-center md:text-start">
+                    <p className="mt-10 mb-7 text-5md font-opensans text-center md:text-start">
                         Hey there, I'm a FULLSTACK Software Engineer dedicated to building projects that make
                         tomorrow better.
                     </p>
