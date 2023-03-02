@@ -113,9 +113,9 @@ const Projects = () =>  {
                               githubLink="https://github.com/UncleMac7/OrionStore"
                               liveSite="https://orionstore.vercel.app/"/>
                             <Project title="Project 4"
-                              info="A Blog design template for Js, HTML & SASS"
-                              githubLink="https://github.com/UncleMac7/Nuntium-desktop-blog-Frontend-"
-                              liveSite="https://nuntium-blog.netlify.app"/>
+                              info="An Admin Dashboard using React and Javascript, Libraries: Material UI, Nivo, Fullcalendar, Yup, Formik and React-pro-sidebar"
+                              githubLink="https://github.com/UncleMac7/admin-dash"
+                              liveSite="https://admin-pro-dash.vercel.app/"/>
 
                             <div className='flex justify-center text-center items-center p-10 bg-blue
                               max-w-[570px] max-h-[400px] text-2xl font-playfair font-semibold rounded-md'
